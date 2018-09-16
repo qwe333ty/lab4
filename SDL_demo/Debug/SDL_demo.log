@@ -1,0 +1,10 @@
+﻿  ZBuffer.cpp
+g:\аокг\лабораторная работа №1\sdf\lab4\sdl_demo\trigometry objects.h(7): fatal error C1014: слишком много включаемых файлов: глубина = 1024
+  Trigometry Objects.cpp
+g:\аокг\лабораторная работа №1\sdf\lab4\sdl_demo\trigometry objects.h(7): fatal error C1014: слишком много включаемых файлов: глубина = 1024
+  stdafx.cpp
+  secondMain.cpp
+g:\аокг\лабораторная работа №1\sdf\lab4\sdl_demo\trigometry objects.h(7): fatal error C1014: слишком много включаемых файлов: глубина = 1024
+  SDL_demo.cpp
+  draw.cpp
+  Создание кода...
